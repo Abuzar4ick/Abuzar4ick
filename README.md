@@ -62,12 +62,6 @@
 
 ###
 
-<picture data-importer="pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abuzar4ik/Abuzar4ik/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
-
-###
-
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/313safgonxhvkwmuoa4ttq7sruiu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=313safgonxhvkwmuoa4ttq7sruiu&count=5&unique=true" alt="Spotify Recently Played" />
