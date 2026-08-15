@@ -4,10 +4,6 @@
 
 ###
 
-<h1 data-importer="text" align="center">Hi there, I'm Abuzar 👋</h1>
-
-###
-
 <h3 data-importer="text" align="center">Full-Stack Developer</h3>
 
 ###
