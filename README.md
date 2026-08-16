@@ -10,7 +10,14 @@
 
 ###
 
-<p data-importer="text" align="left">🚀 I love building things that solve real problems.<br><br>Currently exploring the journey from writing code to creating products people actually use. Always learning, experimenting, and looking for ways to improve both as a developer and as a person.<br><br>📈 Focused on growth, consistency, and long-term thinking.</p>
+<p data-importer="text" align="left">🚀 I love building products that solve real problems.
+
+I'm a student and aspiring software engineer from Uzbekistan, currently focused on gaining real-world experience through projects, client work, and continuous learning.
+
+Beyond coding, I'm interested in entrepreneurship, self-improvement, and the process of turning ideas into products that people actually use.
+
+📈 Focused on growth, consistency, and long-term thinking.
+</p>
 
 ###
 
